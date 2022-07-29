@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusanr7489)](https://solved.ac/profile/gusanr7489)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusanr7489)](https://solved.ac/gusanr7489)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
